@@ -1,0 +1,5 @@
+python-telegram-bot==21.10
+google-generativeai
+faiss-cpu
+PyPDF2
+python-dotenv
